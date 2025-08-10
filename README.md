@@ -29,8 +29,8 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-Ritam&show_icons=true&theme=radical&hide_border=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Ritam&theme=radical&hide_border=true" height="170px"/>
 </p>
 
 ---
@@ -46,8 +46,8 @@
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="mailto:chai.aur.ritam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/@._ritam_." target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
