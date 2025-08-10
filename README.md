@@ -37,7 +37,7 @@
 
 ## 📈 Contribution Graph (Live)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-RitamE&bg_color=000000&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
