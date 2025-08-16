@@ -19,7 +19,7 @@
 
 ## 🚀 Currently Learning / Want to Learn
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,pytorch,tensorflow,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,pytorch,tensorflow" />
 </p>
 
 ---
