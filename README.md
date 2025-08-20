@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Skills I Have Mastered
+## 🧠 Skills I am good at
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
 </p>
