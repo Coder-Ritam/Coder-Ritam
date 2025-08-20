@@ -1,6 +1,6 @@
 <!-- 🔥 Futuristic Typing Animation Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there+%F0%9F%91%8B;I'm+Ritam+%28or+Rit%29;A+Commerce+Student+Who+Loves+to+Code;Finance+%7C+Tech+Enthusiast;Future+AI+%26+ML+Pro" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there+%F0%9F%91%8B;I'm+Ritam+%28or+Rit%29;A+Commerce+Student+Who+Loves+to+Code;Finance+%7C+Tech+Enthusiast;Thank+You+%26+💪+🙏" alt="Typing Animation" />
 </h1>
 
 <!-- 🌌 Futuristic GIF Banner -->
