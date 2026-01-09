@@ -68,6 +68,6 @@
 
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coder-itam&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-Ritam&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Ritam&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
