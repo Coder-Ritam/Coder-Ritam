@@ -31,23 +31,7 @@
 
 <br />
 
-<h3 align="center">📚 Knowledge Base</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <a href="https://drive.google.com/drive/folders/1-C95jeqsOYT-PEFUipF6w84EeA1_vOY9?usp=sharing">
-          <img src="https://img.shields.io/badge/Mathematics-000000?style=flat-square&logo=google-drive&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://drive.google.com/drive/folders/1bNQvg09B6T62PAMpK_kOenNNRELFyQJH?usp=sharing">
-          <img src="https://img.shields.io/badge/Programming-000000?style=flat-square&logo=google-drive&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <br />
 
